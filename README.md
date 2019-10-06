@@ -1,6 +1,8 @@
 > # I haven't been around these days, even robots have holidays 🤖🎄!
 > I'm back now and I'll have a look to issues and PRs ✅
 
+conflict test
+
 # `gren` 🤖
 > Github release notes and changelog generator
 
